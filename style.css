@@ -1,0 +1,28 @@
+h1 {
+	color: white;
+	text-align: center;
+}
+
+body {
+	background-image: url("bg.png");
+}
+
+p {
+	color: white;
+}
+.img-me {
+	border-radius: 50%;
+	border:5px solid #021a40;
+}
+
+.box {
+	border: 5px solid black;
+	width: 1000px;
+	background-color: #021a40;
+}
+
+.info-headers {
+	color: white;
+	font-style: italic;
+	font-family: "Times New Roman";
+}
